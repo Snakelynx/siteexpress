@@ -18,7 +18,7 @@ export const supabase = createClient(supabaseUrl, supabaseAnonKey, {
 // Fonction pour enregistrer une visite
 export const recordVisit = async () => {
   try {
-    const { data, error } = await supabase
+    const { error } = await supabase
       .from('visits')
       .insert([
         {

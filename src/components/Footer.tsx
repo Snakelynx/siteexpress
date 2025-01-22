@@ -1,8 +1,11 @@
-import React from 'react';
 import { Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
-const Footer = ({ setCurrentPage }) => {
+interface FooterProps {
+  setCurrentPage: (page: string) => void;
+}
+
+const Footer = ({ setCurrentPage }: FooterProps) => {
   const { t } = useTranslation();
 
   return (
