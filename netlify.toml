@@ -21,10 +21,10 @@
   directory = "netlify/functions"
   node_bundler = "esbuild"
 
-[build.environment]
-  VITE_SUPABASE_URL = "${VITE_SUPABASE_URL}"
-  VITE_SUPABASE_ANON_KEY = "${VITE_SUPABASE_ANON_KEY}"
-
-# Configuration des fonctions planifiées
 [functions.generateArticle]
   schedule = "0 */12 * * *"
+
+[context.production.environment]
+  VITE_SUPABASE_URL = "${VITE_SUPABASE_URL}"
+  VITE_SUPABASE_ANON_KEY = "${VITE_SUPABASE_ANON_KEY}"
+  OPENAI_API_KEY = "${OPENAI_API_KEY}"
