@@ -1,0 +1,63 @@
+# SiteExpress Robots.txt
+# https://siteexpress1h.netlify.app
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /*.json$
+Disallow: /*.xml$
+Allow: /sitemap.xml
+Allow: /robots.txt
+
+# Optimisation du crawl
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://siteexpress1h.netlify.app/sitemap.xml
+
+# Directives spécifiques pour les robots
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+Allow: *.css
+Allow: *.js
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.gif
+Allow: *.png
+Allow: *.webp
+
+User-agent: Googlebot-Image
+Allow: /
+Crawl-delay: 1
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.gif
+Allow: *.png
+Allow: *.webp
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 2
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# Clean Parameters
+*?utm_source=*
+*?utm_medium=*
+*?utm_campaign=*
+*?fbclid=*
+*?gclid=*

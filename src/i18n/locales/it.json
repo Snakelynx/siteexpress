@@ -1,0 +1,95 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Servizi",
+    "pricing": "Prezzi",
+    "contact": "Contatti",
+    "getFreeQuote": "Preventivo Gratuito"
+  },
+  "hero": {
+    "deliveredIn": "Sito consegnato in 60 minuti!",
+    "title": "Sito Web Express",
+    "subtitle": "in solo 1 ora",
+    "description": "Perché aspettare settimane? Ottieni il tuo sito web professionale in 60 minuti. Design unico, SEO ottimizzato e pronto a conquistare il web!",
+    "startNow": "Avvia il timer ora",
+    "seeProjects": "Vedi i nostri progetti express",
+    "howItWorks": "Come funziona?",
+    "steps": {
+      "1": "Scegli il template (5 min)",
+      "2": "Personalizzazione express (15 min)",
+      "3": "Integrazione contenuti (30 min)",
+      "4": "Messa online (10 min)"
+    }
+  },
+  "features": {
+    "title": "Sito Web Express",
+    "subtitle": "Un sito in 60 minuti, come è possibile?",
+    "description": "Il nostro processo ottimizzato e la nostra esperienza ci permettono di creare il tuo sito in tempo record.",
+    "list": {
+      "1": "Sito web professionale",
+      "2": "Design responsive moderno",
+      "3": "SEO ottimizzato",
+      "4": "Modulo di contatto",
+      "5": "Hosting incluso",
+      "6": "Pubblicazione express",
+      "7": "Supporto prioritario"
+    }
+  },
+  "pricing": {
+    "title": "Sito Web Express",
+    "perSite": "/ sito",
+    "description": "Un sito web professionale, ottimizzato e pronto a conquistare il web!",
+    "cta": "Avvia il timer ora"
+  },
+  "testimonials": {
+    "title": "Testimonianze",
+    "subtitle": "Cosa dicono i nostri clienti",
+    "description": "Scopri i feedback dei nostri clienti soddisfatti",
+    "roles": {
+      "shopOwner": "Proprietario di Negozio",
+      "consultant": "Consulente Indipendente",
+      "designer": "Designer d'Interni"
+    },
+    "quotes": {
+      "1": "Servizio incredibile! Il mio sito era pronto in meno di un'ora e il risultato è bellissimo.",
+      "2": "Consiglio vivamente SiteExpress. Professionalità e velocità al loro meglio.",
+      "3": "Servizio clienti eccezionale e un sito che risponde perfettamente alle mie aspettative."
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "form": {
+      "fullName": "Nome completo",
+      "email": "Email",
+      "message": "Messaggio",
+      "send": "Invia messaggio"
+    }
+  },
+  "quote": {
+    "title": "Richiesta preventivo gratuito",
+    "form": {
+      "fullName": "Nome completo",
+      "email": "Email",
+      "phone": "Telefono",
+      "project": "Descrizione del progetto",
+      "submit": "Ottieni il mio preventivo gratuito"
+    }
+  },
+  "footer": {
+    "services": "Servizi",
+    "servicesList": {
+      "websites": "Siti Web",
+      "seo": "SEO",
+      "support": "Supporto"
+    },
+    "legal": "Legale",
+    "legalLinks": {
+      "terms": "Termini di servizio",
+      "privacy": "Privacy",
+      "gdpr": "GDPR",
+      "conditions": "Condizioni"
+    },
+    "followUs": "Seguici",
+    "rights": "Tutti i diritti riservati."
+  }
+}

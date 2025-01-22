@@ -1,0 +1,95 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "getFreeQuote": "Get Free Quote"
+  },
+  "hero": {
+    "deliveredIn": "Site delivered in 60 minutes!",
+    "title": "Express Website",
+    "subtitle": "in just 1 hour",
+    "description": "Why wait weeks? Get your professional website in 60 minutes. Unique design, SEO optimized, and ready to conquer the web!",
+    "startNow": "Start the timer now",
+    "seeProjects": "See our express projects",
+    "howItWorks": "How does it work?",
+    "steps": {
+      "1": "Choose your template (5 min)",
+      "2": "Express customization (15 min)",
+      "3": "Content integration (30 min)",
+      "4": "Going live (10 min)"
+    }
+  },
+  "features": {
+    "title": "Express Website",
+    "subtitle": "A website in 60 minutes, how is it possible?",
+    "description": "Our optimized process and expertise allow us to create your site in record time.",
+    "list": {
+      "1": "Professional website",
+      "2": "Modern responsive design",
+      "3": "SEO optimized",
+      "4": "Contact form",
+      "5": "Hosting included",
+      "6": "Express deployment",
+      "7": "Priority support"
+    }
+  },
+  "pricing": {
+    "title": "Express Website",
+    "perSite": "/ site",
+    "description": "A professional, optimized website ready to conquer the web!",
+    "cta": "Start the timer now"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What our clients say",
+    "description": "Discover the feedback from our satisfied customers",
+    "roles": {
+      "shopOwner": "Shop Owner",
+      "consultant": "Independent Consultant",
+      "designer": "Interior Designer"
+    },
+    "quotes": {
+      "1": "Amazing service! My site was ready in less than an hour and the result is beautiful.",
+      "2": "I highly recommend SiteExpress. Professionalism and speed at its best.",
+      "3": "Exceptional customer service and a site that perfectly meets my expectations."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "quote": {
+    "title": "Free Quote Request",
+    "form": {
+      "fullName": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "project": "Project Description",
+      "submit": "Get my free quote"
+    }
+  },
+  "footer": {
+    "services": "Services",
+    "servicesList": {
+      "websites": "Websites",
+      "seo": "SEO",
+      "support": "Support"
+    },
+    "legal": "Legal",
+    "legalLinks": {
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "gdpr": "GDPR",
+      "conditions": "Conditions"
+    },
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  }
+}

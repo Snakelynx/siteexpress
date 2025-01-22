@@ -1,0 +1,100 @@
+{
+  "header": {
+    "home": "Accueil",
+    "services": "Services",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "getFreeQuote": "Devis Gratuit"
+  },
+  "hero": {
+    "deliveredIn": "Site livré en 60 minutes !",
+    "title": "Site Vitrine Express",
+    "subtitle": "en 1 heure seulement",
+    "description": "Pourquoi attendre des semaines ? Obtenez votre site vitrine professionnel en 60 minutes. Design unique, SEO optimisé, et prêt à conquérir le web !",
+    "startNow": "Lancer le chrono maintenant",
+    "seeProjects": "Voir nos réalisations express",
+    "howItWorks": "Comment ça marche ?",
+    "steps": {
+      "1": "Choix du template (5 min)",
+      "2": "Personnalisation express (15 min)",
+      "3": "Intégration contenu (30 min)",
+      "4": "Mise en ligne (10 min)"
+    }
+  },
+  "features": {
+    "title": "Site Vitrine Express",
+    "subtitle": "Un site en 60 minutes, comment est-ce possible ?",
+    "description": "Notre processus optimisé et notre expertise nous permettent de créer votre site en un temps record.",
+    "list": {
+      "1": "Site vitrine professionnel",
+      "2": "Design responsive moderne",
+      "3": "SEO optimisé",
+      "4": "Formulaire de contact",
+      "5": "Hébergement inclus",
+      "6": "Mise en ligne express",
+      "7": "Support prioritaire"
+    }
+  },
+  "blog": {
+    "title": "Notre Blog",
+    "description": "Découvrez nos derniers articles sur le web et le digital",
+    "readMore": "Lire la suite"
+  },
+  "pricing": {
+    "title": "Site Vitrine Express",
+    "perSite": "/ site",
+    "description": "Un site vitrine professionnel, optimisé et prêt à conquérir le web !",
+    "cta": "Lancer le chrono maintenant"
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Ce que disent nos clients",
+    "description": "Découvrez les retours d'expérience de nos clients satisfaits",
+    "roles": {
+      "shopOwner": "Propriétaire de boutique",
+      "consultant": "Consultant indépendant",
+      "designer": "Architecte d'intérieur"
+    },
+    "quotes": {
+      "1": "Incroyable service ! Mon site était prêt en moins d'une heure et le résultat est magnifique.",
+      "2": "Je recommande vivement SiteExpress. Professionnalisme et rapidité au rendez-vous.",
+      "3": "Un service client exceptionnel et un site qui répond parfaitement à mes attentes."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "form": {
+      "fullName": "Nom complet",
+      "email": "Email",
+      "message": "Message",
+      "send": "Envoyer le message"
+    }
+  },
+  "quote": {
+    "title": "Demande de devis gratuit",
+    "form": {
+      "fullName": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "project": "Description du projet",
+      "submit": "Obtenir mon devis gratuit"
+    }
+  },
+  "footer": {
+    "services": "Services",
+    "servicesList": {
+      "websites": "Sites Vitrines",
+      "seo": "SEO",
+      "support": "Support"
+    },
+    "legal": "Légal",
+    "legalLinks": {
+      "terms": "Mentions légales",
+      "privacy": "Confidentialité",
+      "gdpr": "RGPD",
+      "conditions": "CGV"
+    },
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés."
+  }
+}
